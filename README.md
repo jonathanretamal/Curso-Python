@@ -1,6 +1,10 @@
 # Curso-Python
 DÍA 1
-Lenguaje utilizado: Python
+
+Lenguaje utilizado:
+
+Python
+
 Lista de ejercicios con descripción:
 
   1º. Primeros outputs: tipos de objetos (int,float,bool,text); ejercicio tipos; expresiones y variables
@@ -16,7 +20,9 @@ Lista de ejercicios con descripción:
   https://colab.research.google.com/drive/18tivirHYP5SbLBx8ChGIzbtepWnCcjsO
 
 DÍA 2
+
 Python
+
 Ejercicios:
 
   1º. https://colab.research.google.com/drive/19sHVL18-vppHgtNK9VWhL5EKGyR7Kg8G
