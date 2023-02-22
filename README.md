@@ -4,10 +4,15 @@ Lenguaje utilizado: Python
 Lista de ejercicios con descripción:
 
   1º. Primeros outputs: tipos de objetos (int,float,bool,text); ejercicio tipos; expresiones y variables
+  
   https://colab.research.google.com/drive/1hfupuCdARKLbM1KP76-p6Jn2MYCzMZYZ
+  
   2º. Python Data Types (strings,numbers,lists,tuples,dictionary,sets,boolean)
+  
   https://colab.research.google.com/drive/1zS8OHuHjlvWGndQZWLv7FFV-51P3FOOt
+  
   3º. Condicionales
+  
   https://colab.research.google.com/drive/18tivirHYP5SbLBx8ChGIzbtepWnCcjsO
 
 DÍA 2
