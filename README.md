@@ -30,3 +30,15 @@ Ejercicios:
   2º. https://colab.research.google.com/drive/1dTCBSGo994smJq8i5gLzlm6gfTJD7kyh
   
   3º. https://colab.research.google.com/drive/1wQUPt2zj8yCxymCCL84RaJgtiCdJt6eX
+
+DÍA 3
+
+Python
+
+Ejercicios:
+
+  1º. https://colab.research.google.com/drive/1Wxh8Vs-GQRB8fJEw68nr4dyGN5WSSGqA
+  
+  2º. https://colab.research.google.com/drive/1XCk7jMQ16mVwKVeMwrtoXFTfMdVmz-zz
+  
+  3º. https://colab.research.google.com/drive/1r-7wT1NElwdWiYpZ_XE27BrZ6SZJqRzS
