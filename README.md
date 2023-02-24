@@ -42,3 +42,17 @@ Ejercicios:
   2º. https://colab.research.google.com/drive/1XCk7jMQ16mVwKVeMwrtoXFTfMdVmz-zz
   
   3º. https://colab.research.google.com/drive/1r-7wT1NElwdWiYpZ_XE27BrZ6SZJqRzS
+
+DÍA 4
+
+Python
+
+Ejercicios:
+
+  1º. https://colab.research.google.com/drive/1ajbp449Q05SbgrX0mkkFJpAq35QtLR2F
+  
+  2º. https://colab.research.google.com/drive/1fIbFfPHkaRXPTKTx2b_SRwRAPnnqVMtZ
+  
+  3º. https://colab.research.google.com/drive/1fF0R9IGf4ftdWzT-qbfJ-LxPY1SiDv8J
+  
+  4º. https://colab.research.google.com/drive/1572OCwiFMcNNncOiTDnSZ7aviwERVz2x
