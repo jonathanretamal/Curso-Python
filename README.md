@@ -56,3 +56,11 @@ Ejercicios:
   3º. https://colab.research.google.com/drive/1fF0R9IGf4ftdWzT-qbfJ-LxPY1SiDv8J
   
   4º. https://colab.research.google.com/drive/1572OCwiFMcNNncOiTDnSZ7aviwERVz2x
+
+DÍA 5
+
+Python
+
+Ejercicio:
+
+https://colab.research.google.com/drive/1sywFev4uGp0Kgn4GtF1PjwcRsMXZc4Ln
